@@ -1,0 +1,34 @@
+{
+  "itemList": [
+    {
+      "id": 18171,
+      "imageUrl": "https://itc.ua/wp-content/uploads/2021/01/10_scar_17_l.jpg",
+      "name": "ASUS ROG",
+      "count": "10",
+      "size": {
+        "width": "2",
+        "height": "3"
+      },
+      "weight": "2",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "id": 22281,
+      "imageUrl": "https://cdn.comfy.ua/media/catalog/product/cache/4/small_image/270x265/62defc7f46f3fbfc8afcd112227d1181/w/w/wwru_macbook-air_q121_spacegray_pdp-image-1.jpg",
+      "name": "Apple New MacBook Air",
+      "count": "2",
+      "size": {
+        "width": "41",
+        "height": "44"
+      },
+      "weight": "14",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    }
+  ]
+}
